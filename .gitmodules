@@ -1,0 +1,3 @@
+[submodule "python/circleci"]
+	path = python/circleci
+	url = git@github.com:levlaz/circleci.py.git
